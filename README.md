@@ -1,3 +1,5 @@
-# issues
+# 内部系统bug提交
 
-有什么问题可以在这里提
+[issue](https://github.com/sealyun-market/issues/issues)
+
+
