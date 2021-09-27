@@ -8,11 +8,6 @@ excludeLabels:
 # custom configuration to override default behaviour
 # control explicitly what gets added and when
 custom:
-  - location: title
-    keywords:
-      - '[bug]'
-    labels:
-      - kind/bug
   - location: body
     keywords:
       - '[bug]'
