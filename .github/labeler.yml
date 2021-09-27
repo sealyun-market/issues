@@ -10,6 +10,6 @@ excludeLabels:
 custom:
   - location: body
     keywords:
-      - '[bug]'
+      - 'bug'
     labels:
       - kind/bug
